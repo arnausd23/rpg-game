@@ -94,3 +94,5 @@ sw.*
 
 // Cypress
 cypress/screenshots
+
+*_old/*
